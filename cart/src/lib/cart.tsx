@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import styles from './cart.module.css';
+import styles from './cart.module.scss';
 import {Banner} from "@french-blog/shared/ui";
 
 /* eslint-disable-next-line */
